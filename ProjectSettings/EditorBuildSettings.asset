@@ -6,6 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Resources/Scenes/first_scene.unity
+    path: Assets/Project/Scenes/first_scene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Project/Scenes/second_scene.unity
+    guid: ddad7bff597a76a41b7d9bd83fec5d50
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: ae4f169b994b88341b9d37fa5896d9ed, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: d6d5ba3e289cb9641a1eef1d313b3e2b, type: 2}
