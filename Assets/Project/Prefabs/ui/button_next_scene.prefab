@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3146895831054956496}
   - component: {fileID: 3146895831054956499}
   - component: {fileID: 3146895831054956502}
+  - component: {fileID: 8770452579109607531}
   m_Layer: 5
   m_Name: button_next_scene
   m_TagString: Untagged
@@ -146,6 +147,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 63aec9180504fcf4b8cfea9e872bf653, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &8770452579109607531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3146895831054956509}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d26b2790f25c048458d61c724b2fa3c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &6183762911222938204
